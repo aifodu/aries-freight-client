@@ -12,16 +12,10 @@
         United States.
       </p>
 
-      <h5>Phone Numbers:</h5>
-      <p>
-        +1 832 280 6407,
-        +1 281 656 9426
-      </p>
-
       <h5>Email:</h5>
       <p>
-        <a href="mailto:info@ariesfreightsystem.com">info@ariesfreightsystem.com</a>,
-        <a href="mailto:dispatch@ariesfreightsystem.com">dispatch@ariesfreightsystem.com</a>
+        <a href="mailto:contact@ariesfreightsystem.com">contact@ariesfreightsystem.com</a>,
+        <a href="mailto:post@ariesfreightsystem.com">post@ariesfreightsystem.com</a>
         <!-- <a href="mailto:ariesfreight@fastservice.com">ariesfreight@fastservice.com</a> -->
       </p>
     </div>

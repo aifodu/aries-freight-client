@@ -3,7 +3,8 @@
     <div class="overlay">
       <div class="scroll-top" v-scroll-to="{ element: '#banner', easing: 'linear' }">
         <div class="container">
-          <div class="pd-x-30">Return to Top
+          <div class="pd-x-30">
+            Return to Top
             <span class="top-icon"></span>
           </div>
         </div>
@@ -19,35 +20,30 @@
               FL 32920
               United States.
             </p>
-            <h5>Phone Numbers:</h5>
-            <p>
-              +1 832 280 6407,
-              +1 281 656 9426
-            </p>
 
             <h5>Email:</h5>
             <p>
-              <a href="mailto:info@ariesfreightsystem.com">info@ariesfreightsystem.com</a>,
-              <a href="mailto:dispatch@ariesfreightsystem.com">dispatch@ariesfreightsystem.com</a>
+              <a href="mailto:contact@ariesfreightsystem.com">contact@ariesfreightsystem.com</a>,
+              <a href="mailto:post@ariesfreightsystem.com">post@ariesfreightsystem.com</a>
               <!-- <a href="mailto:ariesfreight@fastservice.com">ariesfreight@fastservice.com</a> -->
             </p>
           </div>
 
           <div class="certification">
             <a href="http://www.fmc.gov/">
-              <img src="../assets/images/certifications/ad1.png" alt="FMC">
+              <img src="../assets/images/certifications/ad1.png" alt="FMC" />
             </a>
             <a href="http://www.cbp.gov/xp/cgov/home.xml">
-              <img src="../assets/images/certifications/ad2.png" alt="CPB">
+              <img src="../assets/images/certifications/ad2.png" alt="CPB" />
             </a>
             <a href="http://www.c-tpat.com/">
-              <img src="../assets/images/certifications/ad3.png" alt="C-TPAT">
+              <img src="../assets/images/certifications/ad3.png" alt="C-TPAT" />
             </a>
             <a href="http://www.dot.gov/">
-              <img src="../assets/images/certifications/DOTLogo.gif" alt="DOT">
+              <img src="../assets/images/certifications/DOTLogo.gif" alt="DOT" />
             </a>
             <a href="http://www.iata.org/Pages/default.aspx">
-              <img src="../assets/images/certifications/iata_logo_ad.png" alt="IATA">
+              <img src="../assets/images/certifications/iata_logo_ad.png" alt="IATA" />
             </a>
           </div>
         </div>
